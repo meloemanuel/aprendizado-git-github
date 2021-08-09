@@ -1,1 +1,4 @@
+git branch testing - para criar uma nova ramificação
+git checkout - para sair da ramificação
+git checkout testing - para sair da ramificação e entrar em uma testing
 

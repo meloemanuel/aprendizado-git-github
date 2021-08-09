@@ -1,1 +1,2 @@
-
+git pull origin develop - para o git atualizar uma branch local(pc) do github
+git push nome_do_repositório_remoto nome_do_repositório_local
